@@ -3,11 +3,11 @@
 ## 📋 Fluxo de Autenticação - Comprovantes
 
 ### 1. 👤 Registro de Usuário
-![Registro de Usuário](docs/Images/Registro-Usuario.png)
+![Registro de Usuário](docs/Images/erro_registrar.png)
 *Registro do aluno com nome e email institucional*
 
 ### 2. 🔐 Geração do Token JWT  
-![Geração do Token JWT](docs/Images/Login-Usuario.png)
+![Geração do Token JWT](docs/Images/erro_login.png)
 *Geração do token JWT após login bem-sucedido*
 
 ## 🐳 Infraestrutura
